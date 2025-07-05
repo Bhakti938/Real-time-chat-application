@@ -20,3 +20,7 @@ Working on this project improved my understanding of React components, state man
 
 In conclusion, this task was a valuable experience that combined frontend UI building with live data communication. It demonstrated how a chat application works from a frontend perspective and how to handle real-time updates with WebSocket and React. The app is lightweight, responsive, and a great example of integrating dynamic features into modern web applications.
 
+*OUTPUT*
+<img width="1388" height="842" alt="Image" src="https://github.com/user-attachments/assets/dfa429a8-2c9f-4c02-ab3b-7ced4bb8c7f5" />
+
+
